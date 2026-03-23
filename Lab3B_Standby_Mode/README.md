@@ -20,7 +20,7 @@ After working with Sleep and Stop modes, the only mode left is Standby mode. It 
 
 PA5 is an output for LED. PA0 is enabled as input (`GPIO_Input`) which is external button, sending triggering interrupt - internal button is not usable in standby mode since the button as a peripheral does not work as well.
 
-![image](images/Pasted%20image%2020260320202533.png]]
+![image](images/Pasted%20image%2020260320202533.png)
 
 ## Code Explanation
 
